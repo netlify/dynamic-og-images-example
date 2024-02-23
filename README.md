@@ -2,13 +2,13 @@
 
 # Dynamic OG Images with Netlify Edge Functions
 
-[![Demo](./docs/dynamic-og-images.png)](https://dynamic-og-images-example.netlify.app/)
-
 This is an example of how to use [Netlify Edge Functions](https://docs.netlify.com/edge-functions/overview/) to generate dynamic OpenGraph images for your site.
+
+[![Demo](./docs/dynamic-og-images.png)](https://dynamic-og-images-example.netlify.app/)
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify/dynamic-og-images-example)
 
-## Setup
+## Work Locally
 
 To use this project locally, first clone the repository:
 
@@ -28,3 +28,9 @@ Start the development server:
     ntl dev --command "yarn dev" --target-port 3000
 
 This will open a browser window at `http://localhost:8888` with the example site.
+
+## Deploy to Netlify
+
+You can also click the _Deploy to Netlify_ button to deploy your own copy of the site to your Netlify account.
+
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify/dynamic-og-images-example)
