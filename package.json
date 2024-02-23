@@ -1,7 +1,7 @@
 {
-  "name": "dyanmic-og-images-example",
+  "name": "dynamic-og-images-example",
   "type": "module",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "scripts": {
     "dev": "http-server --port 3000 ./public"
   },
