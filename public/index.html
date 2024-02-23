@@ -14,8 +14,47 @@
     <meta name="apple-mobile-web-app-title" content="Netlify Dynamic OG Image Example" />
     <meta name="application-name" content="Netlify Dynamic OG Image Example" />
     <meta name="theme-color" content="#ffffff" />
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="/styles.css" />
   </head>
   <body>
-    <p>Hello world ...</p>
+    <main>
+      <h1 class="page-title">Dynamic OG Images</h1>
+      <div class="page-description">
+        <p>These images are generated using edge functions.</p>
+      </div>
+
+      <div class="image-grid">
+        <a class="image-grid-col" href="/preview-image/edge-handlers-revolution">
+          <img class="grid-image" src="/preview-image/edge-handlers-revolution" />
+          <code class="image-caption">/preview-image/edge-handlers-revolution</code>
+        </a>
+        <a class="image-grid-col" href="/preview-image/deployment-with-build-plugins">
+          <img class="grid-image" src="/preview-image/deployment-with-build-plugins" />
+          <code class="image-caption">/preview-image/deployment-with-build-plugins</code>
+        </a>
+        <a class="image-grid-col" href="/preview-image/netlifys-high-performance-cdn">
+          <img class="grid-image" src="/preview-image/netlifys-high-performance-cdn" />
+          <code class="image-caption">/preview-image/netlifys-high-performance-cdn</code>
+        </a>
+        <a class="image-grid-col" href="/preview-image/guide-to-netlify-dev">
+          <img class="grid-image" src="/preview-image/guide-to-netlify-dev" />
+          <code class="image-caption">/preview-image/guide-to-netlify-dev</code>
+        </a>
+        <a class="image-grid-col" href="/preview-image/understanding-gatsby-js">
+          <img class="grid-image" src="/preview-image/understanding-gatsby-js" />
+          <code class="image-caption">/preview-image/understanding-gatsby-js</code>
+        </a>
+        <a class="image-grid-col" href="/preview-image/netlify-forms-simplified">
+          <img class="grid-image" src="/preview-image/netlify-forms-simplified" />
+          <code class="image-caption">/preview-image/netlify-forms-simplified</code>
+        </a>
+      </div>
+
+      <div class="page-footer">
+        <p>Check <code>public/sitemap-data.json</code> for more examples.</p>
+      </div>
+    </main>
   </body>
 </html>

@@ -10,11 +10,6 @@
     "slug": "deployment-with-build-plugins"
   },
   {
-    "title": "Dive into Jamstack",
-    "description": "Understand why Jamstack is preferred in web dev.",
-    "slug": "dive-into-jamstack"
-  },
-  {
     "title": "Netlify's High-Performance CDN",
     "description": "Learn how CDN improves page load times.",
     "slug": "netlifys-high-performance-cdn"
@@ -33,6 +28,11 @@
     "title": "Netlify Forms Simplified",
     "description": "A simple guide to Netlify's form handling.",
     "slug": "netlify-forms-simplified"
+  },
+  {
+    "title": "Dive into Jamstack",
+    "description": "Understand why Jamstack is preferred in web dev.",
+    "slug": "dive-into-jamstack"
   },
   {
     "title": "Netlify Identity Explained",
