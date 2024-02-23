@@ -3,5 +3,6 @@
   "deno.enablePaths": ["netlify/edge-functions"],
   "deno.unstable": true,
   "deno.importMap": ".netlify/edge-functions-import-map.json",
-  "deno.path": "~/Library/Preferences/netlify/deno-cli/deno"
+  "deno.path": "~/Library/Preferences/netlify/deno-cli/deno",
+  "editor.rulers": [{}, 80]
 }
