@@ -60,7 +60,7 @@ code {
 
 p {
   line-height: 1.25;
-  margin-bottom: 1rem;
+  margin: 0 0 1rem;
 }
 
 main {
@@ -71,7 +71,7 @@ main {
 
 .page-title {
   font-size: 3.5rem;
-  margin-bottom: 2rem;
+  line-height: 1;
   text-align: center;
 }
 
@@ -85,7 +85,6 @@ main {
   margin-bottom: 4rem;
 }
 
-.page-description,
 .page-footer {
   margin-top: 4rem;
 }
