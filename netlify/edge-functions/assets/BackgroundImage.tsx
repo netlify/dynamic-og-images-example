@@ -1,12 +1,19 @@
-// @ts-ignore
 import React from "https://esm.sh/react@18.2.0";
 
-export const PreviewBackgroundImage: React.FC = () => (
+export const BackgroundImage: React.FC = () => (
   <svg
     xmlns="http://www.w3.org/2000/svg"
     viewBox="0 0 1200 619"
     fill="none"
-    style={{ objectFit: "cover", width: "100%", height: "100%", position: "absolute", top: 0, left: 0, zIndex: -1 }}
+    style={{
+      objectFit: "cover",
+      width: "100%",
+      height: "100%",
+      position: "absolute",
+      top: 0,
+      left: 0,
+      zIndex: -1,
+    }}
   >
     <rect width="1200" height="619" fill="white" />
     <rect width="1200" height="620" fill="#2036A1" />
@@ -427,7 +434,14 @@ export const PreviewBackgroundImage: React.FC = () => (
     />
 
     <defs>
-      <linearGradient id="paint0_linear_3_265" x1="604" y1="0" x2="604" y2="620" gradientUnits="userSpaceOnUse">
+      <linearGradient
+        id="paint0_linear_3_265"
+        x1="604"
+        y1="0"
+        x2="604"
+        y2="620"
+        gradientUnits="userSpaceOnUse"
+      >
         <stop stop-color="#181A1C" stop-opacity="0" />
         <stop offset="1" stop-color="#181A1C" />
       </linearGradient>

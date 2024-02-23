@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Edge Handlers Revolution",
+    "description": "Explore the impact of Edge Handlers in serverless.",
+    "slug": "edge-handlers-revolution"
+  },
+  {
+    "title": "Deployment with Build Plugins",
+    "description": "Learn to harness the power of build plugins.",
+    "slug": "deployment-with-build-plugins"
+  },
+  {
+    "title": "Dive into Jamstack",
+    "description": "Understand why Jamstack is preferred in web dev.",
+    "slug": "dive-into-jamstack"
+  },
+  {
+    "title": "Netlify's High-Performance CDN",
+    "description": "Learn how CDN improves page load times.",
+    "slug": "netlifys-high-performance-cdn"
+  },
+  {
+    "title": "Guide to Netlify Dev",
+    "description": "Explore Netlify Dev, a local dev tool.",
+    "slug": "guide-to-netlify-dev"
+  },
+  {
+    "title": "Understanding Gatsby.js",
+    "description": "How Gatsby.js aids in web development.",
+    "slug": "understanding-gatsby-js"
+  },
+  {
+    "title": "Netlify Forms Simplified",
+    "description": "A simple guide to Netlify's form handling.",
+    "slug": "netlify-forms-simplified"
+  },
+  {
+    "title": "Netlify Identity Explained",
+    "description": "Understand Netlify’s identity service.",
+    "slug": "netlify-identity-explained"
+  },
+  {
+    "title": "Hugo vs Jekyll",
+    "description": "Comparison between Hugo and Jekyll.",
+    "slug": "hugo-vs-jekyll"
+  },
+  {
+    "title": "Netlify Analytics Insights",
+    "description": "Understand your site's performance with analytics.",
+    "slug": "netlify-analytics-insights"
+  },
+  {
+    "title": "Netlify for E-commerce",
+    "description": "Explore Netlify’s offerings for e-commerce.",
+    "slug": "netlify-for-e-commerce"
+  },
+  {
+    "title": "Accelerate with Netlify Functions",
+    "description": "Boost productivity with Netlify functions.",
+    "slug": "accelerate-with-netlify-functions"
+  },
+  {
+    "title": "Seamless Integration: Netlify & Github",
+    "description": "Make deployment easier with Github.",
+    "slug": "seamless-integration-netlify-github"
+  },
+  {
+    "title": "Netlify CMS in Depth",
+    "description": "Harness the power of Netlify CMS.",
+    "slug": "netlify-cms-in-depth"
+  },
+  {
+    "title": "Split Testing with Netlify",
+    "description": "A look into A/B testing on Netlify.",
+    "slug": "split-testing-with-netlify"
+  },
+  {
+    "title": "CI/CD with Netlify",
+    "description": "Continuous testing and deployment on Netlify.",
+    "slug": "ci-cd-with-netlify"
+  },
+  {
+    "title": "Using React with Netlify",
+    "description": "How to optimize your React apps on Netlify.",
+    "slug": "using-react-with-netlify"
+  },
+  {
+    "title": "Netlify Vitals",
+    "description": "Understanding core web vitals on Netlify.",
+    "slug": "netlify-vitals"
+  },
+  {
+    "title": "Netlify & WordPress",
+    "description": "Integrating WordPress with Netlify.",
+    "slug": "netlify-wordpress"
+  },
+  {
+    "title": "Netlify's Support for Svelte",
+    "description": "Building better applications with Svelte and Netlify.",
+    "slug": "netlifys-support-for-svelte"
+  }
+]

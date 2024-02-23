@@ -2,8 +2,8 @@ import type { Config, Context } from "@netlify/edge-functions";
 import { ImageResponse } from "https://deno.land/x/og_edge/mod.ts";
 // @ts-ignore
 import React from "https://esm.sh/react@18.2.0";
-import { NetlifyDevelopersLogo } from "./assets/NetlifyDevelopersLogo.tsx";
-import { PreviewBackgroundImage } from "./assets/PreviewBackgroundImage.tsx";
+// import { NetlifyDevelopersLogo } from "./assets/NetlifyDevelopersLogo.tsx";
+// import { PreviewBackgroundImage } from "./assets/BackgroundImage.js";
 
 export default async (request: Request, context: Context) => {
   const { collectionType, slug } = context.params;
@@ -40,8 +40,8 @@ export default async (request: Request, context: Context) => {
           fontFamily: "Pacaembu",
         }}
       >
-        <PreviewBackgroundImage />
-        <NetlifyDevelopersLogo />
+        {/* <PreviewBackgroundImage />
+        <NetlifyDevelopersLogo /> */}
         <div
           style={{
             color: "#ffffff",

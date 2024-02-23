@@ -1,7 +1,6 @@
-// @ts-ignore
 import React from "https://esm.sh/react@18.2.0";
 
-export const NetlifyLogo: React.FC = () => (
+export const Logo: React.FC = () => (
   <svg
     viewBox="0 0 512 209"
     fill="none"
